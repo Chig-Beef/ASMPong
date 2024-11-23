@@ -1,0 +1,7 @@
+*.c
+*.h
+*.bat
+*.exe
+*.dll
+*.obj
+*.a
